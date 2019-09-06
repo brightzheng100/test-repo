@@ -10,7 +10,7 @@ resources:
   type: semver-config
   source:
     driver: git
-    uri: https://github.com/brightzheng100/private-config.git
+    uri: https://github.com/brightzheng100/test-repo.git
     branch: master
     config_file: semver-config-examples/version-with-config.yaml
     initial_version: 1.0.0                   # optional, defaults to 0.0.0 if not set
