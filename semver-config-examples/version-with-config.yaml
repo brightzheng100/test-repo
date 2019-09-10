@@ -3,7 +3,8 @@ elastic-runtime:
   version: "2.3.4"
   slug: elastic-runtime
   name: cf
-  globs: "cf-*.pivotal"
+  globs: "srf-*.pivotal"
+  #globs: "cf-*.pivotal"
 
 elastic-runtime-updated:
   version: "2.3.4"
